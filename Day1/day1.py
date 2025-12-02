@@ -25,7 +25,7 @@
 #       Your country
 # 5. Write an example for different Python data types such as Number(Integer, Float, Complex), String, Boolean, List, Tuple, Set and Dictionary.
 # 6. Find an Euclidian distance between (2, 3) and (10, 8)
-
+import math
 print("Welcome to 30 days of python")
 # Solution 
 # 1 python --version
@@ -75,3 +75,15 @@ Dictionalry = {
     "school": "FUTA",
     "nickname": "Silent Architect"
 }
+
+# 6 Find an Euclidian distance between (2, 3) and (10, 8)
+distance1 = (2,3)
+distance2 = (10,8)
+
+dx = distance2[0] - distance1[0]
+dy = distance2[1] - distance1[1]
+
+sum_square = dx**2 + dy**2
+
+result = math.sqrt(sum_square)
+print(result)
