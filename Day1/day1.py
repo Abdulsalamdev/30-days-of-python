@@ -25,3 +25,30 @@
 #       Your country
 # 5. Write an example for different Python data types such as Number(Integer, Float, Complex), String, Boolean, List, Tuple, Set and Dictionary.
 # 6. Find an Euclidian distance between (2, 3) and (10, 8)
+
+print("Welcome to 30 days of python")
+# Solution 
+# 1 python --version
+# 2
+# addition
+print(3+4)
+# subtraction
+print(4-1)
+# multiplication
+print(3*4)
+# modulus
+print(3 % 2)
+# didsion
+print(3 / 2)
+# exponential
+print(2**3)
+# floor division operator
+print(5 // 3)
+
+# 3
+name = "Abdulsalam"
+familyName = "Akinyoola"
+country = "Nigeria"
+current = "i am enjoying 30 days of pyhon"
+
+# 4 
