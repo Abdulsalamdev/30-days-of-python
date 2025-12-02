@@ -52,3 +52,26 @@ country = "Nigeria"
 current = "i am enjoying 30 days of pyhon"
 
 # 4 
+print(type(10))
+print(type(9.8))
+print(type(3.14))
+print(type(4 - 4j))
+print(type(["Asabeneh","python","finland"]))
+print(name)
+print(familyName)
+print(country)
+
+# 5
+string = "Silent Architect"
+integer = 9
+floats = 3.55
+complexs = 4 - 4j
+boolean  = True
+List = ["Abdul", "salam", "silent", "Architect"]
+Tuple = ("Abdul", "salam", "silent", "architect")
+Set = {"name", "school", "level"}
+Dictionalry = {
+    "name": "Abdulsalam",
+    "school": "FUTA",
+    "nickname": "Silent Architect"
+}
